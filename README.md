@@ -1,6 +1,6 @@
 # Alzheimer-s-Disease-Prediction-and-Risk-Assessment
 
-
+---
 🧠 Project Overview
 This project focuses on predictive analysis and risk identification for Alzheimer's disease using machine learning techniques. The primary objectives are to:
 
@@ -8,6 +8,9 @@ Identify whether a person currently has Alzheimer's disease
 Predict individuals who may be at risk of developing the disease in the future
 
 Early detection of mild cognitive impairment (MCI), which is the early stage of Alzheimer's disease, is crucial for delaying cognitive decline and implementing timely interventions.
+---
+
+
 📊 Dataset Information
 The dataset contains 436 observations with 12 variables including:
 Demographic Variables
@@ -27,8 +30,9 @@ eTIV: Estimated Total Intracranial Volume
 nWBV: Normalized Whole Brain Volume
 ASF: Atlas Scaling Factor
 Delay: Time delay in data collection
-
 Data Source: Kaggle - Alzheimer's Classification Dataset
+
+---
 🔍 Key Findings
 Data Insights
 
@@ -38,7 +42,10 @@ Strong Correlation: Negative correlation between MMSE scores and CDR ratings
 Brain Volume: Decreases with age (correlation with nWBV)
 
 Model Performance
-ModelAccuracyF1 ScoreAUCRandom Forest89.8%0.920.88K-Nearest Neighbors88.4%--Logistic Regression88.1%--
+ModelAccuracyF1 ScoreAUCRandom Forest89.8%0.920.88K-Nearest Neighbors88.4%--Logistic Regression88.1%
+
+---
+
 🛠️ Technologies Used
 
 Programming Language: R
@@ -49,7 +56,7 @@ Machine learning algorithms
 Statistical analysis tools
 
 
-
+---
 📈 Methodology
 1. Data Preprocessing
 
@@ -84,7 +91,7 @@ Strength: Handles complex interactions and non-linear relationships
 Robustness: Ensemble method reduces overfitting
 
 
-
+---
 🚀 Getting Started
 Prerequisites
 
@@ -106,6 +113,7 @@ Run the data preprocessing scripts
 Execute model training and evaluation
 View results and visualizations
 
+---
 📊 Key Visualizations
 
 Correlation Heatmap: Shows relationships between variables
@@ -124,6 +132,7 @@ Economic Benefit: Reduces healthcare costs through early intervention
 
 
 Sabancı University 
+---
 
 🔮 Future Improvements
 
@@ -133,11 +142,13 @@ Deep Learning: Neural networks for complex pattern recognition
 Real-time Prediction: Integration with medical imaging systems
 Longitudinal Analysis: Tracking disease progression over time
 
+---
 📚 References
 
 Lock, M. (2013). Striving to standardize alzheimer disease. The Alzheimer Conundrum
 Yang, Q., Li, X., Ding, X., Xu, F., & Ling, Z. (2022). Deep learning-based speech analysis for alzheimer's disease detection. Alzheimer's Research & Therapy
 
+---
 📄 License
 This project is part of an academic research study. Please cite appropriately if using this work.
 🤝 Contributing
