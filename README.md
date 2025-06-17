@@ -1,7 +1,9 @@
 # Alzheimer-s-Disease-Prediction-and-Risk-Assessment
 
 ---
+
 🧠 Project Overview
+
 This project focuses on predictive analysis and risk identification for Alzheimer's disease using machine learning techniques. The primary objectives are to:
 
 Identify whether a person currently has Alzheimer's disease
@@ -11,7 +13,9 @@ Early detection of mild cognitive impairment (MCI), which is the early stage of 
 
 
 ---
+
 📊 Dataset Information
+
 The dataset contains 436 observations with 12 variables including:
 Demographic Variables
 
@@ -33,7 +37,9 @@ Delay: Time delay in data collection
 Data Source: Kaggle - Alzheimer's Classification Dataset
 
 ---
+
 🔍 Key Findings
+
 Data Insights
 
 Age Distribution: Mean age of 51.36 years (range: 18-96 years)
@@ -59,6 +65,7 @@ Statistical analysis tools
 ---
 
 📈 Methodology
+
 1. Data Preprocessing
 
 Handled missing values using mean imputation
@@ -93,7 +100,9 @@ Robustness: Ensemble method reduces overfitting
 
 
 ---
+
 🚀 Getting Started
+
 Prerequisites
 
 R (version 4.0 or higher)
@@ -115,6 +124,7 @@ Execute model training and evaluation
 View results and visualizations
 
 ---
+
 📊 Key Visualizations
 
 Correlation Heatmap: Shows relationships between variables
