@@ -83,20 +83,6 @@ Best Performance: Highest accuracy and F1 score
 Strength: Handles complex interactions and non-linear relationships
 Robustness: Ensemble method reduces overfitting
 
-alzheimer-prediction/
-├── data/
-│   ├── alzheimer.csv
-│   └── alzheimer_data_description.xlsx
-├── scripts/
-│   ├── clean_data.R
-│   ├── data_vis_histograms.R
-│   ├── age_by_gender.R
-│   └── cdr_age_relationship.R
-├── results/
-│   ├── model_performance.txt
-│   └── visualizations/
-└── README.md
-
 
 
 🚀 Getting Started
