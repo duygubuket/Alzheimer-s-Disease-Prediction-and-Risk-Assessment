@@ -8,9 +8,9 @@ Identify whether a person currently has Alzheimer's disease
 Predict individuals who may be at risk of developing the disease in the future
 
 Early detection of mild cognitive impairment (MCI), which is the early stage of Alzheimer's disease, is crucial for delaying cognitive decline and implementing timely interventions.
+
+
 ---
-
-
 📊 Dataset Information
 The dataset contains 436 observations with 12 variables including:
 Demographic Variables
@@ -57,6 +57,7 @@ Statistical analysis tools
 
 
 ---
+
 📈 Methodology
 1. Data Preprocessing
 
@@ -130,8 +131,6 @@ Future Projection: Expected to reach 152 million patients by 2050
 Early Detection: Can help maintain healthy brain activity and delay progression
 Economic Benefit: Reduces healthcare costs through early intervention
 
-
-Sabancı University 
 ---
 
 🔮 Future Improvements
@@ -150,8 +149,6 @@ Yang, Q., Li, X., Ding, X., Xu, F., & Ling, Z. (2022). Deep learning-based speec
 
 ---
 📄 License
-This project is part of an academic research study. Please cite appropriately if using this work.
-🤝 Contributing
-This project was completed as part of an academic term project. For questions or collaboration opportunities, please contact the team members.
+This project is part of an academic research study(Sabancı University). Please cite appropriately if using this work.
 
 This project demonstrates the application of machine learning techniques in healthcare, specifically focusing on early detection and risk assessment for Alzheimer's disease.
