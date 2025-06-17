@@ -158,7 +158,9 @@ Lock, M. (2013). Striving to standardize alzheimer disease. The Alzheimer Conund
 Yang, Q., Li, X., Ding, X., Xu, F., & Ling, Z. (2022). Deep learning-based speech analysis for alzheimer's disease detection. Alzheimer's Research & Therapy
 
 ---
+
 📄 License
+
 This project is part of an academic research study(Sabancı University). Please cite appropriately if using this work.
 
 This project demonstrates the application of machine learning techniques in healthcare, specifically focusing on early detection and risk assessment for Alzheimer's disease.
