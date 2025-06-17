@@ -95,9 +95,8 @@ alzheimer-prediction/
 ├── results/
 │   ├── model_performance.txt
 │   └── visualizations/
-├── docs/
-│   └── OPIM_390_Term_Project_Report.pdf
 └── README.md
+
 
 
 🚀 Getting Started
